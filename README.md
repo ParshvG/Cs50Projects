@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-# Cs50Projects
-=======
-# CS50x-2021
-Enroll here: [CS50x]\
+# CS50x-2023
+Enroll here: [CS50x2023]\
 Instructor: [David J. Malan]\
 
-
-# Join CS50-Community
 
 # Table Of Contents
 - ⛳Week-0  ```[Theme: Basics of Programming]```
@@ -85,5 +80,3 @@ Instructor: [David J. Malan]\
     - [Birthdays](pset9/birthdays)
   - Problem set
     - [Finance](pset9/finance)💥
-
->>>>>>> master
