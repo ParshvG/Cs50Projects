@@ -80,3 +80,4 @@ Instructor: [David J. Malan]\
     - [Birthdays](pset9/birthdays)
   - Problem set
     - [Finance](pset9/finance)💥
+- ⛳[Final Project](Final Project/) ```[Theme: Web-based GPS activity viewer written in Python and JavaScript. Utilises the Flask web framework and the Google Maps API]```
