@@ -2,16 +2,15 @@
 # Cs50Projects
 =======
 # CS50x-2021
-Enroll here: [CS50x](https://cs50.harvard.edu/x/)\
-Instructor: [David J. Malan](https://cs.harvard.edu/malan/)\
-Big Thanks to the ***active CS50 Discord Community***
+Enroll here: [CS50x]\
+Instructor: [David J. Malan]\
+
 
 # Join CS50-Community
-<a href="https://discord.com/invite/cs50"><img src="https://discord.com/assets/192cb9459cbc0f9e73e2591b700f1857.svg" alt="Discord-Logo-Banner" width="128" height="64"></a>
 
 # Table Of Contents
 - ⛳Week-0  ```[Theme: Basics of Programming]```
-  - [Scratch Project](https://scratch.mit.edu/projects/422144062/)
+  - [Scratch Project]
 
 - ⛳[Week-1](pset1/) ```[Theme: Basics of C, Greedy Algorithm, Cryptography]```
   - Lab
@@ -80,7 +79,6 @@ Big Thanks to the ***active CS50 Discord Community***
     - [Trivia](pset8/trivia)
   - Problem set
     - [Homepage](pset8/homepage)\
-      View the website [here](https://vrv501.github.io/CS50x-2021/) !!!
 
 - ⛳[Week-9](pset9/) ```[Theme: Flask, Python revisited, Jinja, Equity Markets(Stocks)]```
   - Lab
@@ -88,8 +86,4 @@ Big Thanks to the ***active CS50 Discord Community***
   - Problem set
     - [Finance](pset9/finance)💥
 
-# Misc
-[_Miscellaneous Folder](_Miscellaneous) consists of implementation of searching/ sorting algorithms in C.
-
-Week-10 is a write-up about opinions on content moderation in social-media sites. It will be omitted here
 >>>>>>> master
